@@ -1,0 +1,17 @@
+body {
+    padding-top: 54px;
+}
+
+@media (min-width:768px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+h2#modal-header{
+    color: #0dc16f;
+}
+
+label#lblFirstName, #lblLastName, #lblArrival, #lblExit, #lblDate  {
+    color: red;
+}
